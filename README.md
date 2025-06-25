@@ -30,7 +30,7 @@ A user-friendly desktop application built with CustomTkinter that allows you to 
 For the easiest way to get started, download the ready-to-use executable for your operating system from the GitHub Releases page. FFmpeg is already included in these packages, so no separate installation is required.
 
 1. Go to the [GitHub Releases page](https://github.com/NASSERRRR/ytp/releases) for this project.  
-2. Download the appropriate file for your OS (e.g., .dmg for macOS, .exe for Windows, .tar.gz for Linux).  
+2. Download the appropriate file for your OS (e.g., .dmg for macOS, .exe for Windows).  
 3. Run the executable.
 
 ### **Building from Source (for Developers)**
