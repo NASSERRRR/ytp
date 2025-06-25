@@ -32,6 +32,7 @@ For the easiest way to get started, download the ready-to-use executable for you
 1. Go to the [GitHub Releases page](https://github.com/NASSERRRR/ytp/releases) for this project.  
 2. Download the appropriate file for your OS (e.g., .dmg for macOS, .exe for Windows).  
 3. Run the executable.
+### **Done and need help? [Usage.](https://github.com/NASSERRRR/ytp/tree/main?tab=readme-ov-file#usage)
 
 ### **Building from Source (for Developers)**
 
@@ -152,7 +153,7 @@ The "Settings" window (accessible from the sidebar) allows you to customize:
 * **Application Crashes / Unexpected Behavior**:  
   * Check the "Activity Log" for detailed error messages.  
   * Ensure all dependencies are installed and up-to-date (pip install \-r requirements.txt \--upgrade if running the script).  
-  * If issues persist, please [report a bug](https://www.google.com/search?q=https://github.com/NASSERRRR/ytp/issues/new).
+  * If issues persist, please [report a bug](https://github.com/NASSERRRR/ytp/issues/new).
 
 ## **🤝 Contributing**
 
@@ -167,7 +168,7 @@ Contributions are welcome\! If you have suggestions for features, improvements, 
 
 ## **🐛 Report a Bug**
 
-If you encounter any issues or unexpected behavior, please [report them on the GitHub Issues page](https://www.google.com/search?q=https://github.com/NASSERRRR/ytp/issues/new). When reporting a bug, please include:
+If you encounter any issues or unexpected behavior, please [report them on the GitHub Issues page](https://github.com/NASSERRRR/ytp/issues/new). When reporting a bug, please include:
 
 * A clear description of the bug.  
 * Steps to reproduce the bug.  
@@ -178,4 +179,4 @@ If you encounter any issues or unexpected behavior, please [report them on the G
 
 ## **License**
 
-This project is licensed under the MIT License \- see the [LICENSE](https://www.google.com/search?q=https://github.com/NASSERRRR/ytp/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License \- see the [LICENSE](https://github.com/NASSERRRR/ytp/blob/main/LICENSE) file for details.
